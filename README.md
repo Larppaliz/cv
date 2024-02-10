@@ -1,8 +1,11 @@
 
-## GitHub CV - Esimerkki
+# GitHub CV
 
-## Työnäytteet
-# Projekti 1: Terraria Mod
+# Koulutus
+
+
+# Työnäytteet
+## Projekti 1: Terraria Mod
 Kuvaus: Aloitin kesällä 2020 tekemään 
 Linkki: 
 
