@@ -3,6 +3,7 @@
 
 # Koulutus
 Peruskoulu: Laukaan Kirkonkylän Koulu - 201-2019, Sydän-Laukaan koulu 2019-2022
+Ammattikoulu: Gradia Viitaniemi Sovellusohjelmoinnin perustutkinto - 2022-
 
 # Työkokemus
 
