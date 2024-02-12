@@ -7,6 +7,8 @@ Peruskoulu: Laukaan Kirkonkylän Koulu - 201-2019, Sydän-Laukaan koulu 2019-202
 Ammattikoulu: Gradia Viitaniemi Sovellusohjelmoinnin perustutkinto - 2022-
 
 # Työkokemus
+## Työpaikka 1: ViaCar Oy
+
 
 # Työnäytteet
 ## Projekti 1: Terraria Mod
