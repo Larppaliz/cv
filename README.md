@@ -17,9 +17,9 @@ Kurssit
 Ohjelmoinnin verkkokurssi, Kodarit kesäkurssi (https://kodarit.com/fi/) - 2021
 # KIELITAITO
 
-Suomi				Äidinkieli
+Suomi - Äidinkieli
 
-Englanti			Sujuva
+Englanti - Sujuva
 
 # TYÖNÄYTTEET
 ## Projekti 1: Terraria Mod
@@ -28,7 +28,7 @@ Kuvaus: Aloitin kesällä 2020 tekemään
 
 Linkki: https://github.com/Larppaliz/TheNextWeapons
 
-# Osaaminen
+# OSAAMINEN
 Ohjelmointikielet: JavaScript, C#, Java, HTML, Python
 
 Työkalut: Visual Studio
