@@ -1,6 +1,3 @@
-
-# GitHub CV
-
 # Koulutus
 Peruskoulu: Laukaan Kirkonkylän Koulu - 201-2019, Sydän-Laukaan koulu 2019-2022
 
