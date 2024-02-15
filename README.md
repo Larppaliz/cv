@@ -1,8 +1,3 @@
-PROFIILI
-
-Olen rento ja huumorintajuinen, pidän eläimistä, haaveilen olevani pelin suunnittelija tulevaisuudessa. Olen rauhallinen ja oppivainen. Mielestäni olen reilu ja luotettava työntekijä. Minulla ei ole hirveästi kokemusta työpaikoista, joten mielelläni lähtisin oppimaan asioita.
-
-
 # TYÖKOKEMUS
 
 Viacar Oy 
