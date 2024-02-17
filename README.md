@@ -23,7 +23,7 @@ Englanti - Sujuva
 # TYÖNÄYTTEET
 ## Projekti 1: Terraria Mod
 
-Kuvaus: Aloitin kesällä 2020 tekemään 
+Kuvaus: Modi peliin Terraria jota olen tehnyt vapaa ajallani harrastuksena
 
 Linkki: https://github.com/Larppaliz/TheNextWeapons
 
