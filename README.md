@@ -33,6 +33,8 @@ Ohjelmointikielet: JavaScript, C#, Java, HTML, Python
 Työkalut: Visual Studio
 
 # YHTEYSTIEDOT
+Nimi: Lari Lievonen
+
 Sähköposti: lari.eero@gmail.com
 
 Puhelin numero: (+358) 0442443928
