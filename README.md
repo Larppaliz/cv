@@ -1,43 +1,60 @@
 # TYÖKOKEMUS
-Viacar Oy 
-Harjoittelija - 2021
+## Viacar Oy
+Tehtävä: Harjoittelija
 
-S-Market Laukaa
-Harjoittelija - 2023
+Vuosi: 2021
+
+## S-Market Laukaa
+Tehtävä: Harjoittelija
+
+Vuosi: 2023
 
 # KOULUTUS
+## Peruskoulu
 
-Peruskoulu 
-Laukaan Kirkonkylän Koulu - 2013-2019, Sydän-Laukaan koulu - 2019-2022
-Ammattikoulu
-Gradia Viitaniemi sovellusohjelmoinnin perustutkinto - 2022-
-Kurssit
+1. - 6. luokka (2013-2019): Laukaan Kirkonkylän Koulu
 
-Ohjelmoinnin verkkokurssi, Kodarit kesäkurssi (https://kodarit.com/fi/) - 2021
+7. - 9. luokka (2019-2022): Sydän-Laukaan koulu
+
+## Ammattikoulu
+
+1. - 3. vuosi (2022-): Gradia Viitaniemi, Sovellusohjelmointi ammattitutkinto
+
+# KURSSIT
+
+Ohjelmointi Verkkokurssi, Kodarit Kesäkurssi (https://kodarit.com/fi/) - 2021
+
 # KIELITAITO
+## Suomi
+- Äidinkieli
 
-Suomi - Äidinkieli
-
-Englanti - Sujuva
+## Englanti
+- Sujuva kirjoittaminen
+- Kohtalainen ääntäminen
 
 # TYÖNÄYTTEET
-## Projekti 1: Terraria Mod
+## Projekti 1:
+Terraria Mod (TheNextWeapons)
 
-Kuvaus: Modi peliin Terraria jota olen tehnyt vapaa ajallani harrastuksena
+## Kuvaus:
+Modi peliin Terraria, jonka olen luonut vapaa-ajallani harrastuksena, lisää peliin ylimääräistä sisältöä ja vaatii Tmodloaderin käyttöönsä
 
-Linkki: https://github.com/Larppaliz/TheNextWeapons
+## Linkki:
+https://github.com/Larppaliz/TheNextWeapons
 
-# OSAAMINEN
-Ohjelmointikielet: JavaScript, C#, Java, HTML, Python
+# TAIDOT
+## Ohjelmointikielet:
+C#, Java
 
-Työkalut: Visual Studio
+## Työkalut:
+Visual Studio
 
 # YHTEYSTIEDOT
-Nimi: Lari Lievonen
+## Nimi:
+Lari Lievonen
 
-Sähköposti: lari.eero@gmail.com
+## Sähköposti:
+lari.eero@gmail.com
 
-Puhelin numero: (+358) 0442443928
-
-# HARRASTUKSET
-Pixel art,  videopelien pelaaminen, ohjelmointi ja uinti
+## Puhelinnumero:
+**(+358)** 0442443928
