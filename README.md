@@ -12,13 +12,13 @@ Vuosi: 2023
 # KOULUTUS
 ## Peruskoulu
 
-1. - 6. luokka (2013-2019): Laukaan Kirkonkylän Koulu
+1 - 6 luokka (2013-2019): Laukaan Kirkonkylän Koulu
 
-7. - 9. luokka (2019-2022): Sydän-Laukaan koulu
+7 - 9 luokka (2019-2022): Sydän-Laukaan koulu
 
 ## Ammattikoulu
 
-1. - 3. vuosi (2022-): Gradia Viitaniemi, Sovellusohjelmointi ammattitutkinto
+1 - 3 vuosi (2022-): Gradia Viitaniemi, Sovellusohjelmointi ammattitutkinto
 
 # KURSSIT
 
