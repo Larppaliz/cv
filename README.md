@@ -44,7 +44,7 @@ https://github.com/Larppaliz/TheNextWeapons
 
 # TAIDOT
 ## Ohjelmointikielet:
-C#, Java
+C#, JavaScript, HTML
 
 ## Työkalut:
 Visual Studio
