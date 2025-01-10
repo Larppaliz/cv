@@ -9,6 +9,14 @@ Tehtävä: Harjoittelija
 
 Vuosi: 2023
 
+## Mosaiikki Ry
+Tehtävä: Pelitekijä HTML Käyttäen
+Peli 1: https://gamesforchildren.online/labGame/metsalenkki
+Peli 2: https://gamesforchildren.online/labGame/finnbus
+
+Vuosi: 2024
+
+
 # KOULUTUS
 ## Peruskoulu
 
