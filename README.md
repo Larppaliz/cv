@@ -55,7 +55,7 @@ https://github.com/Larppaliz/TheNextWeapons
 C#, JavaScript, HTML
 
 ## Työkalut:
-Visual Studio
+Visual Studio, tModloader
 
 # YHTEYSTIEDOT
 ## Nimi:
