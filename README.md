@@ -5,7 +5,7 @@ Tehtävä: Harjoittelija
 Vuosi: 2021
 
 ## S-Market Laukaa
-Tehtävä: Harjoittelija
+Tehtävä: Varasto
 
 Vuosi: 2023
 
@@ -40,14 +40,14 @@ Ohjelmointi Verkkokurssi, Kodarit Kesäkurssi (https://kodarit.com/fi/) - 2021
 - Sujuva kirjoittaminen
 - Kohtalainen ääntäminen
 
-# TYÖNÄYTTEET
+# Projektit
 ## Projekti 1:
-Terraria Mod (TheNextWeapons)
+Terraria Modit
 
 ## Kuvaus:
-Modi peliin Terraria, jonka olen luonut vapaa-ajallani harrastuksena, lisää peliin ylimääräistä sisältöä ja vaatii Tmodloaderin käyttöönsä
+Modeja peliin Terraria, jonka olen luonut vapaa-ajallani harrastuksena, lisää peliin ylimääräistä sisältöä ja vaatii Tmodloaderin käyttöönsä
 
-## Linkki:
+## Linkit:
 https://github.com/Larppaliz/TheNextWeapons
 
 # TAIDOT
