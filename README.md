@@ -26,7 +26,7 @@ Vuosi: 2024
 
 ## Ammattikoulu
 
-1 - 3 vuosi (2022-): Gradia Viitaniemi, Sovellusohjelmointi ammattitutkinto
+ Tieto- ja Viestintätekniikan perustutkinto (2022-2025): Gradia Viitaniemi
 
 # KURSSIT
 
@@ -40,15 +40,6 @@ Ohjelmointi Verkkokurssi, Kodarit Kesäkurssi (https://kodarit.com/fi/) - 2021
 - Sujuva kirjoittaminen
 - Kohtalainen ääntäminen
 
-# Projektit
-## Projekti 1:
-Terraria Modit
-
-## Kuvaus:
-Modeja peliin Terraria, jonka olen luonut vapaa-ajallani harrastuksena, lisää peliin ylimääräistä sisältöä ja vaatii Tmodloaderin käyttöönsä
-
-## Linkit:
-https://github.com/Larppaliz/TheNextWeapons
 
 # TAIDOT
 ## Ohjelmointikielet:
